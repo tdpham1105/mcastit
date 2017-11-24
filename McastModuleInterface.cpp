@@ -1,22 +1,3 @@
-/*******************************************************************************
- * Panasonic Avionics Corporation
- *
- * Copyright (c) Nov 23, 2017   All Rights Reserved
- *
- * Filename: McastModuleInterface.cpp
- *
- * Description: 
- *
- * Limitations: 
- *
- * Environment: ANSI C, X-series
- *
- * Version: @(#) (Internal Only)
- *
- * History: 
- *
- ******************************************************************************/
-
 #include "McastModuleInterface.h"
 
 McastModuleInterface::McastModuleInterface(const vector<IfaceData>& ifaces,
